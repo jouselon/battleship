@@ -17,9 +17,9 @@ public class Main {
 
   private static void printGameBoard(char[][] gameBoard, char water, char ship) {
     int gameBoardLength = gameBoard.length;
-    for (int row=0; row<gameBoardLength; i++){
+    for (int row=0; row<gameBoardLength; row++){
       for (int col=0; col<gameBoardLength; col++){
-        
+
       }
     }
   }
